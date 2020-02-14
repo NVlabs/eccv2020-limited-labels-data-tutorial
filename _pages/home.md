@@ -23,7 +23,7 @@ acknowledgements: ""
 
 <div class="row" id="intro">
   <div class="col-md-12">
-    <img src="{{ "/static/img/Glasgow1.jpg" | prepend:site.baseurl }}">
+    <img src="{{ "/static/img/Glasgow.jpg" | prepend:site.baseurl }}">
     <p align="right"> Photo: Pixabay</p>
   </div>
 </div>
