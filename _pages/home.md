@@ -214,7 +214,7 @@ Pavlo Molchanov obtained PhD from Tampere University of Technology, Finland in t
   <div class="col-md-9">
     <b>Biography</b>
     <p class="speaker-bio">
-Varun Jampani is a research scientist at Google Research, US. Prior to that, he was a research scientist at NVIDIA. His main research interests include content-adaptive neural networks, self-supervised visual discovery and deep structured prediction. His work on `SplatNet' received the `Best Paper Honorable Mention' award at CVPR 2018. In relevance to this tutorial, has worked on self-, unsupervised and semi-supervised learning, and on domain adaptation. He has co-organized a tutorial on <a href="https://xiaolonw.github.io/graphnn/">Learning Representations via Graph-structured Networks</a> in conjunction with CVPR 2019.
+Varun Jampani is a Research Scientist at Google Research in Cambridge, US. Prior to that, he was a Research Scientist at NVIDIA Research. He works in the areas of machine learning and computer vision and his main research interests include content-adaptive neural networks, self-supervised visual discovery, motion understanding and novel view synthesis. He obtained his Ph.D. with highest honors at Max Planck Institute for Intelligent Systems (MPI) in 2017. He obtained his BTech and MS from International Institute of Information Technology, Hyderabad (IIIT-H), India, where he was a gold medalist. His work on <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Su_SPLATNet_Sparse_Lattice_CVPR_2018_paper.pdf">“SplatNet”</a> received the Best Paper Honorable Mention award at CVPR 2018.
     </p>
   </div>
 </div>
@@ -252,7 +252,7 @@ Varun Jampani is a research scientist at Google Research, US. Prior to that, he 
   <div class="col-md-9">
     <b>Biography</b>
     <p class="speaker-bio">
-	TBD
+	Jan Kautz is VP of Learning and Perception Research at NVIDIA. Jan and his team pursue fundamental research in the areas of computer vision and deep learning, including visual perception, geometric vision, generative models, and efficient deep learning. Before joining NVIDIA in 2013, Jan was a tenured faculty member at University College London. He holds a BSc in Computer Science from the University of Erlangen-Nürnberg (1999), an MMath from the University of Waterloo (1999), received his PhD from the Max-Planck-Institut für Informatik (2003), and worked as a post-doctoral researcher at the Massachusetts Institute of Technology (2003-2006).
     </p>
   </div>
 </div>
