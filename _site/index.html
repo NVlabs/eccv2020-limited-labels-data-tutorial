@@ -1,16 +1,72 @@
----
-layout: project
-urltitle:  "New Frontiers for Learning with Limited Labels or Data"
-title: "New Frontiers for Learning with Limited Labels or Data"
-categories: eccv, tutorial, computer vision, robotics, machine learning, few-shot, unsupervised, semi-supervised
-permalink: /
-favicon: /static/img/eccv-final.png
-bibtex: true
-paper: true
-acknowledgements: ""
----
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-<br>
+  <meta name="keywords" content="iccv, workshop, computer vision, computer graphics, visual learning, simulation environments, robotics, machine learning, natural language processing, reinforcement learning">
+
+  <link rel="shortcut icon" href="/static/img/eccv-final.png">
+
+
+
+  <title>New Frontiers for Learning with Limited Labels or Data</title>
+  <meta name="description" content="Tutorial in Conjunction with ECCV 2020 ---">
+
+  <!--Open Graph Related Stuff-->
+  <meta property="og:title" content="Gaze Estimation and Prediction in the Wild"/>
+  <meta property="og:url" content="https://gazeworkshop.github.io/"/>
+  <meta property="og:description" content="Tutorial in Conjunction with ECCV 2020 ---"/>
+  <meta property="og:site_name" content="Gaze Estimation and Prediction in the Wild"/>
+  <meta property="og:image" content=""/>
+  <meta property="og:image:url" content=""/>
+
+  <!--Twitter Card Stuff-->
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:title" content="Gaze Estimation and Prediction in the Wild"/>
+  <meta name="twitter:image" content="https://gazeworkshop.github.io/static/img/icon.jpg">
+  <meta name="twitter:url" content="https://gazeworkshop.github.io"/>
+  <meta name="twitter:description" content="Tutorial in Conjunction with ECCV 2020 ---"/>
+
+  <!-- CSS  -->
+  <link rel="stylesheet" type="text/css" href="/static/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="/static/css/main.css?1" media="screen,projection">
+
+  <!-- Font Awesome -->
+  <script src="https://kit.fontawesome.com/ff6e9b10da.js" crossorigin="anonymous"></script>
+</head>
+
+  <body>
+
+    <!-- <div class="top-strip"></div> -->
+<div class="navbar navbar-default navbar-fixed-top">
+  <div class="container">
+
+    <div class="navbar-header">
+      <a class="navbar-brand" href="/"></a>
+      <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+    <div class="navbar-collapse collapse" id="navbar-main">
+      <ul class="nav navbar-nav">
+	<li><a href="#intro">Introduction</a></li>
+        <li><a href="#schedule">Schedule</a></li>
+        <li><a href="#organizers">Organizers</a></li>
+      </ul>
+    </div>
+
+  </div>
+</div>
+
+
+    <div class="container">
+      <div class="page-content">
+          <p><br /></p>
 <div class="row">
   <div class="col-xs-12">
     <center><h1>New Frontiers for Learning with Limited Labels or Data</h1></center>
@@ -20,15 +76,14 @@ acknowledgements: ""
   </div>
 </div>
 
-
 <div class="row" id="intro">
   <div class="col-md-12">
-    <img src="{{ "/static/img/Glasgow.jpg" | prepend:site.baseurl }}">
+    <img src="/static/img/Glasgow.jpg" />
     <p align="right"> Photo: Pixabay</p>
   </div>
 </div>
 
-<br>
+<p><br /></p>
 
 <div class="row">
   <div class="col-xs-12">
@@ -40,14 +95,14 @@ acknowledgements: ""
     <p>
 Learning from limited data or supervision has garnered much research interest and many ideas to solve it are now well-established. Among them, learning from 1) partial or imperfect labels and 2) data from other related domains (synthetic data), modalities (text/audio/3D) or tasks have been extensively addressed in past tutorials/workshops. To improve network generalization when learning with limited data, the ideas of zero-, few-shot, meta- and task-transfer learning are ubiquitous. So, what's next? Are there new sub-problems that we have not yet investigated? Are there recent breakthroughs in other areas of vision and learning that can help us to better tackle this problem? Can we enable new applications?
 
-<br>
-<br>
+<br />
+<br />
 
 To foster discussion and inspire new ideas along these lines, in this tutorial we will focus on new frontiers of learning with limited labels or data. We will explore emerging sub-problems, such as 1) omni-supervision, which is creating unified frameworks for learning from the entire spectrum of supervision -- with completely unsupervised, semi/weakly-supervised, to full-supervised data and 2) deep dreaming, which involves effectively inverting networks to generate training data. We will present some recent breakthroughs in other vision problems including, but not limited to, neural rendering; biologically-inspired self-learning and self-supervised image representation learning by exploiting video correspondences and 3D mesh reconstruction that can help to solve this problem. Finally, we will present some new applications including self-supervisedly learned discovery of visual object attributes.
       
-<br id="schedule">
-<br>
-<br>
+<br id="schedule" />
+<br />
+<br />
 
 <div class="row">
   <div class="col-xs-12">
@@ -116,7 +171,7 @@ To foster discussion and inspire new ideas along these lines, in this tutorial w
 </div>
 
 
-<br>
+<br />
 
 
 <div class="row">
@@ -128,7 +183,7 @@ To foster discussion and inspire new ideas along these lines, in this tutorial w
 <div class="row speaker" id="shalini">
   <div class="col-sm-3 speaker-pic">
     <a href="https://research.nvidia.com/person/shalini-gupta">
-      <img class="people-pic" src="{{ "/static/img/people/sdm.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="/static/img/people/sdm.jpg" />
     </a>
     <div class="people-name">
       <a href="https://research.nvidia.com/person/shalini-gupta">Shalini De Mello</a>
@@ -143,11 +198,11 @@ Shalini De Mello is a Principal Research Scientist at NVIDIA. Her research inter
   </div>
 </div>
 
-<br>
+<br />
 <div class="row speaker" id="sifei">
   <div class="col-sm-3 speaker-pic">
     <a href="https://www.sifeiliu.net/">
-      <img class="people-pic" src="{{ "/static/img/people/sl.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="/static/img/people/sl.jpg" />
     </a>
     <div class="people-name">
       <a href="https://www.sifeiliu.net/">Sifei Liu</a>
@@ -162,11 +217,11 @@ Sifei Liu obtained her PhD at the University of California, Merced in EECS, advi
   </div>
 </div>
 
-<br>
+<br />
 <div class="row speaker" id="zhiding">
   <div class="col-sm-3 speaker-pic">
     <a href="https://www.sifeiliu.net/">
-      <img class="people-pic" src="{{ "/static/img/people/zy.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="/static/img/people/zy.jpg" />
     </a>
     <div class="people-name">
       <a href="https://chrisding.github.io/index.htm">Zhiding Yu</a>
@@ -180,12 +235,12 @@ Zhiding Yu obtained his PhD in ECE from Carnegie Mellon University in 2017. His 
     </p>
   </div>
 </div>
-<br>
+<br />
 
 <div class="row speaker" id="pavlo">
   <div class="col-sm-3 speaker-pic">
     <a href="https://research.nvidia.com/person/pavlo-molchanov">
-      <img class="people-pic" src="{{ "/static/img/people/pm.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="/static/img/people/pm.jpg" />
     </a>
     <div class="people-name">
       <a href="https://research.nvidia.com/person/pavlo-molchanov">Pavlo Molchanov</a>
@@ -199,12 +254,12 @@ Pavlo Molchanov obtained PhD from Tampere University of Technology, Finland in t
     </p>
   </div>
 </div>
-<br>
+<br />
 
 <div class="row speaker" id="varun">
   <div class="col-sm-3 speaker-pic">
     <a href="https://varunjampani.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/vj.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="/static/img/people/vj.jpg" />
     </a>
     <div class="people-name">
       <a href="https://varunjampani.github.io/">Varun Jampani</a>
@@ -218,12 +273,12 @@ Varun Jampani is a Research Scientist at Google Research in Cambridge, US. Prior
     </p>
   </div>
 </div>
-<br>
+<br />
 
 <div class="row speaker" id="anima">
   <div class="col-sm-3 speaker-pic">
     <a href="http://tensorlab.cms.caltech.edu/users/anima/">
-      <img class="people-pic" src="{{ "/static/img/people/aa.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="/static/img/people/aa.jpg" />
     </a>
     <div class="people-name">
       <a href="http://tensorlab.cms.caltech.edu/users/anima/">Animashree Anandkumar</a>
@@ -237,12 +292,12 @@ Varun Jampani is a Research Scientist at Google Research in Cambridge, US. Prior
     </p>
   </div>
 </div>
-<br>
+<br />
 
 <div class="row speaker" id="jan">
   <div class="col-sm-3 speaker-pic">
     <a href="http://jankautz.com/">
-      <img class="people-pic" src="{{ "/static/img/people/jk.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="/static/img/people/jk.jpg" />
     </a>
     <div class="people-name">
       <a href="http://jankautz.com/">Jan Kautz</a>
@@ -256,4 +311,37 @@ Varun Jampani is a Research Scientist at Google Research in Cambridge, US. Prior
     </p>
   </div>
 </div>
-<br>
+<br />
+</p></div></div>
+
+      </div>
+    </div>
+
+                <div class="section text-gray" id="footer">
+                <div class="container">
+
+                    <div class="row">
+
+                        <div class="col-sm-6">
+
+                            <!-- <p class="social">
+                                <a href="mailto:organizers@pirm2018.org" class="email" data-animate-hover="shake" data-animate="fadeInUp"><i class="fa fa-envelope"></i></a>
+                            </p> -->
+                        </div>
+                        <!-- /.6 -->
+                      
+                        <div class="col-sm-6">
+                            <p><small>&copy; 2019 <a href="http://horanyinora.github.io" class="external">Nora Horanyi</a>.
+                            Template by <a href=" visualdialog.org" class="external"> visualdialog.org</a>.</small></p>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+
+    <script type="text/javascript" src="/static/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/static/js/bootstrap.min.js"></script>
+  </body>
+</html>
