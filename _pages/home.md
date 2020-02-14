@@ -252,7 +252,7 @@ Varun Jampani is a research scientist at Google Research, US. Prior to that, he 
   <div class="col-md-9">
     <b>Biography</b>
     <p class="speaker-bio">
-	TBD
+	Jan Kautz is VP of Learning and Perception Research at NVIDIA. Jan and his team pursue fundamental research in the areas of computer vision and deep learning, including visual perception, geometric vision, generative models, and efficient deep learning. Before joining NVIDIA in 2013, Jan was a tenured faculty member at University College London. He holds a BSc in Computer Science from the University of Erlangen-Nürnberg (1999), an MMath from the University of Waterloo (1999), received his PhD from the Max-Planck-Institut für Informatik (2003), and worked as a post-doctoral researcher at the Massachusetts Institute of Technology (2003-2006).
     </p>
   </div>
 </div>
