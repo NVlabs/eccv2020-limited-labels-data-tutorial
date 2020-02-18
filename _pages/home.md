@@ -157,7 +157,7 @@ Shalini De Mello is a Principal Research Scientist at NVIDIA. Her research inter
   <div class="col-md-9">
     <b>Biography</b>
     <p class="speaker-bio">
-Sifei Liu obtained her PhD at the University of California, Merced in EECS, advised by <a href="https://faculty.ucmerced.edu/mhyang"> Prof. Ming-Hsuan Yang</a>. Her research interests lie in computer vision, deep learning, and the combination of both. She has worked on self-supervised co-segmentation, video correspondence and 3D mesh reconstruction. She has co-organized the <a href="https://xiaolonw.github.io/graphnn/"> Learning Representations via Graph-structured Networks</a> tutorial in conjunction with CVPR 2019.
+Sifei Liu is a senior research scientist at Learning and Perception Research (LPR) at NVIDIA. She obtained her Ph.D. at the University of California Merced, department of EECS, advised by Professor Ming-Hsuan Yang. Her research interests are in computer vision (low-level vision, semantic segmentation and 3D scene understanding), deep learning (graph-structured modules, self-supervised learning), and the combination of both. She worked as an intern student in Baidu IDL from 2013 to 2014, multimedia lab in CUHK in 2015, and NVIDIA research in 2017. She is also the recipient of the Baidu Graduate Fellowship in 2013 and the Rising Star EECS in 2019. She has co-organized the <a href="https://xiaolonw.github.io/graphnn/"> Learning Representations via Graph-structured Networks</a> tutorial in conjunction with CVPR 2019.
     </p>
   </div>
 </div>
@@ -195,7 +195,7 @@ Zhiding Yu obtained his PhD in ECE from Carnegie Mellon University in 2017. His 
   <div class="col-md-9">
     <b>Biography</b>
     <p class="speaker-bio">
-Pavlo Molchanov obtained PhD from Tampere University of Technology, Finland in the area of signal processing in 2014. His dissertation was focused on designing automatic target recognition systems for radars. Since 2015 he is with the Learning and Perception Research team at NVIDIA, currently holding a senior research scientist position. His research is focused on methods for neural network acceleration, and designing novel systems for human-computer interaction and human understanding. For network acceleration, he is interested in neural network pruning methods and conditional inference. For human understanding, he is working on landmark estimation, gesture recognition, hand pose estimation. He received the EuRAD best paper award in 2011 and EuRAD young engineer award in 2013.
+Pavlo Molchanov obtained his PhD from the Tampere University of Technology, Finland in the area of signal processing in 2014. His dissertation was focused on designing automatic target recognition systems for radars. Since 2015 he is with the Learning and Perception Research team at NVIDIA, currently holding a senior research scientist position. His research is focused on methods for neural network acceleration, and designing novel systems for human-computer interaction and human understanding. For network acceleration, he is interested in neural network pruning methods and conditional inference. For human understanding, he is working on landmark estimation, gesture recognition, hand pose estimation. He received the EuRAD best paper award in 2011 and EuRAD young engineer award in 2013.
     </p>
   </div>
 </div>
