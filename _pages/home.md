@@ -233,7 +233,7 @@ Varun Jampani is a Research Scientist at Google Research in Cambridge, US. Prior
   <div class="col-md-9">
     <b>Biography</b>
     <p class="speaker-bio">
-	TBD
+	Anima Anandkumar is the Director of ML Research at NVIDIA and Bren Professor at Caltech. She was previously a Principal Scientist at Amazon Web Services. She has received several honors such as Alfred. P. Sloan Fellowship, NSF Career Award, Young investigator awards from DoD, and Faculty Fellowships from Microsoft, Google and Adobe. She is part of the World Economic Forum's Expert Network. She is passionate about designing principled AI algorithms and applying them in interdisciplinary applications.  Her research interests include tensor methods, optimization, and large-scale learning.
     </p>
   </div>
 </div>
