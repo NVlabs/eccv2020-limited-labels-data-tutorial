@@ -85,20 +85,22 @@ To foster discussion and inspire new ideas along these lines, in this tutorial w
 		  <td>9:45am - 10:00am</td>
           <td>Coffee Break</td>
         </tr>
+        
+        <tr>
+          <td>3</td>
+              <td>10:00am - 10:45am</td>
+              <td><b>Object Attribute Discovery from Image Collections</b>, <a href="#varun">Varun Jampani</a> (Google Research)</td>
+            </tr>
 
         <tr>
-	  <td>3</td>
-		  <td>10:00am - 10:45am</td>
+
+        <tr>
+	  <td>4</td>
+		  <td>10:45am - 11:30am</td>
           <td><b>Self-supervised Learning for Video Correspondences and 3D Mesh Reconstruction</b>, <a href="#sifei">Sifei Liu</a> (NVIDIA)</td>
         </tr>
 
-	<tr>
-	  <td>4</td>
-		  <td>10:45am - 11:30am</td>
-          <td><b>Object Attribute Discovery from Image Collections</b>, <a href="#varun">Varun Jampani</a> (Google Research)</td>
-        </tr>
-
-	<tr>
+	
 	  <td>5</td>
 		  <td>11:30am - 12:15pm</td>
           <td><b>Omni-supervised Learning: Unifying Levels of Supervision</b>, <a href="#zhiding">Zhiding Yu</a> (NVIDIA)</td>
