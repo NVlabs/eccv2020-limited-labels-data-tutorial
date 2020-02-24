@@ -15,8 +15,8 @@ acknowledgements: ""
   <div class="col-xs-12">
     <center><h1>New Frontiers for Learning with Limited Labels or Data</h1></center>
     <center><h2>ECCV 2020 Tutorial, Glasgow, Scotland, UK</h2></center>
-    <center>23-28 August 2020</center>
-    <center>Location: <b>TDB</b></center>
+    <center>Sunday, August 23rd, 2020</center>
+    <center>Location: <b>Room M1 </b></center>
   </div>
 </div>
 
