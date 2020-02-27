@@ -64,31 +64,37 @@ To foster discussion and inspire new ideas along these lines, in this tutorial w
 
         <tr>
 	  <td> </td>
-		  <td>8:15am - 8:20am</td>
+		  <td>8:00am - 8:15am</td>
           <td>Welcome and Opening Remarks, <a href="#shalini">Shalini De Mello</a> (NVIDIA)</td>
         </tr>
 
 	<tr>
 	  <td>1</td>
-		  <td>8:20am - 9:00am</td>
+		  <td>8:15am - 8:50am</td>
           <td><b>Biologically Inspired Self-Learning</b>, <a href="#anima">Animashree Anandkumar</a> (NVIDIA, Caltech)</td>
         </tr>
 
 	<tr>
 	  <td>2</td>
-		  <td>9:00am - 9:45am</td>
+		  <td>8:50am - 9:25am</td>
           <td><b>Inverting Neural Networks for Data-free Knowledge Transfer</b>, <a href="#pavlo">Pavlo Molchanov</a> (NVIDIA)</td>
         </tr>
+        
+        <tr>
+        <td>2</td>
+            <td>9:25am - 10:00am</td>
+            <td><b>Limitless Labels in a Labelless World: Weak Supervision with Noisy Labels</b>, <a href="#arash">Arash Vahdat</a> (NVIDIA)</td>
+          </tr>
 
         <tr>
 	  <td> </td>
-		  <td>9:45am - 10:00am</td>
+		  <td>10:00am - 10:10am</td>
           <td>Coffee Break</td>
         </tr>
         
         <tr>
           <td>3</td>
-              <td>10:00am - 10:45am</td>
+              <td>10:10am - 10:45am</td>
               <td><b>Object Attribute Discovery from Image Collections</b>, <a href="#varun">Varun Jampani</a> (Google Research)</td>
             </tr>
 
@@ -96,20 +102,20 @@ To foster discussion and inspire new ideas along these lines, in this tutorial w
 
         <tr>
 	  <td>4</td>
-		  <td>10:45am - 11:30am</td>
+		  <td>10:45am - 11:20am</td>
           <td><b>Self-supervised Learning for Video Correspondences and 3D Mesh Reconstruction</b>, <a href="#sifei">Sifei Liu</a> (NVIDIA)</td>
         </tr>
 
 	
 	  <td>5</td>
-		  <td>11:30am - 12:15pm</td>
+		  <td>11:20am - 11:55pm</td>
           <td><b>Omni-supervised Learning: Unifying Levels of Supervision</b>, <a href="#zhiding">Zhiding Yu</a> (NVIDIA)</td>
         </tr>
 
 
         <tr id="organizers">
 	  <td> </td>
-		  <td>12:15pm - 12:20pm</td>
+		  <td>11:55pm - 12:00pm</td>
           <td> Closing Remarks, <a href="#shalini">Shalini De Mello</a> (NVIDIA)</td>
         </tr>
       </tbody>
@@ -133,7 +139,7 @@ To foster discussion and inspire new ideas along these lines, in this tutorial w
       <img class="people-pic" src="{{ "/static/img/people/sdm.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://research.nvidia.com/person/shalini-gupta">Shalini De Mello</a>
+      <a href="https://research.nvidia.com/person/shalini-gupta">Shalini De Mello</a> <a href="https://twitter.com/shalinidemello"><img src="{{ "/static/img/Twitter_Social_Icon_Rounded_Square_Color.png" | prepend:site.baseurl }}"></a>
       <h6>Nvidia</h6>
     </div>
   </div>
@@ -178,7 +184,7 @@ Sifei Liu is a senior research scientist at Learning and Perception Research (LP
   <div class="col-md-9">
     <b>Biography</b>
     <p class="speaker-bio">
-Zhiding Yu obtained his PhD in ECE from Carnegie Mellon University in 2017. His research interests include deep representation learning, weakly/semi-supervised learning, transfer learning and deep structured prediction, with their applications to vision problems. He has worked on noisy-label learning, self-training/semi-supervised learning for domain adaptation, uncertainty estimation, learning via data synthesis and weakly supervised learning. He is the winner of the Domain Adaptation for Semantic Segmentation Track, WAD Challenge at CVPR 2018.
+Zhiding Yu is a Research Scientist with ML Research at NVIDIA. He obtained Ph.D. in ECE from Carnegie Mellon University in 2017, and M.Phil. in ECE from The Hong Kong University of Science and Technology in 2012. His research interests mainly focus on deep representation learning, weakly/semi-supervised learning, transfer learning and deep structured prediction, with their applications to vision and robotics problems. His research goal is to leverage the abundant domain knowledge, priors and structured information to eliminate uncertainties with minimum human supervision and uncover the secret towards true visual intelligence. He has conducted research internships at Adobe, Microsoft Research and Mitsubishi Electric Research Laboratories. He is the winner of the Domain Adaptation for Semantic Segmentation Track, WAD Challenge at CVPR 2018.
     </p>
   </div>
 </div>
@@ -190,7 +196,7 @@ Zhiding Yu obtained his PhD in ECE from Carnegie Mellon University in 2017. His 
       <img class="people-pic" src="{{ "/static/img/people/pm.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://research.nvidia.com/person/pavlo-molchanov">Pavlo Molchanov</a>
+      <a href="https://research.nvidia.com/person/pavlo-molchanov">Pavlo Molchanov</a> <a href="https://twitter.com/PavloMolchanov"><img src="{{ "/static/img/Twitter_Social_Icon_Rounded_Square_Color.png" | prepend:site.baseurl }}"></a>
       <h6>Nvidia</h6>
     </div>
   </div>
@@ -222,13 +228,32 @@ Varun Jampani is a Research Scientist at Google Research in Cambridge, US. Prior
 </div>
 <br>
 
+<div class="row speaker" id="arash">
+  <div class="col-sm-3 speaker-pic">
+    <a href="http://latentspace.cc/arash_vahdat/">
+      <img class="people-pic" src="{{ "/static/img/people/av.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="http://latentspace.cc/arash_vahdat/">Arash Vahdat</a> <a href="https://twitter.com/ArashVahdat"><img src="{{ "/static/img/Twitter_Social_Icon_Rounded_Square_Color.png" | prepend:site.baseurl }}"></a>
+      <h6>NVIDIA</h6>
+    </div>
+  </div>
+  <div class="col-md-9">
+    <b>Biography</b>
+    <p class="speaker-bio">
+    Arash Vahdat is a senior research scientist at NVIDIA research specializing in machine learning and computer vision. Before joining NVIDIA, he was a research scientist at D-Wave Systems where he worked on weakly supervised learning from noisy labeled data and deep generative learning with discrete latent variable models. Prior to D-Wave, Arash was a PhD student under Greg Mori’s supervision working on latent variable frameworks for visual analysis, then a research faculty member at Simon Fraser University, where he led several research projects at the intersection of deep learning and video analysis. Arash completed his undergrad in computer engineering at the Sharif University of Technology. His area of research includes weakly-supervised learning, neural architecture search, probabilistic deep learning, and generative learning. More information regarding Arash's background can be found on his personal <a href="http://latentspace.cc/arash_vahdat/">website</a>.
+    </p>
+  </div>
+</div>
+<br>
+
 <div class="row speaker" id="anima">
   <div class="col-sm-3 speaker-pic">
     <a href="http://tensorlab.cms.caltech.edu/users/anima/">
       <img class="people-pic" src="{{ "/static/img/people/aa.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="http://tensorlab.cms.caltech.edu/users/anima/">Animashree Anandkumar</a>
+      <a href="http://tensorlab.cms.caltech.edu/users/anima/">Animashree Anandkumar</a> <a href="https://twitter.com/AnimaAnandkumar"><img src="{{ "/static/img/Twitter_Social_Icon_Rounded_Square_Color.png" | prepend:site.baseurl }}"></a>
       <h6>NVIDIA and California Institute of Technology</h6>
     </div>
   </div>
@@ -247,7 +272,7 @@ Varun Jampani is a Research Scientist at Google Research in Cambridge, US. Prior
       <img class="people-pic" src="{{ "/static/img/people/jk.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="http://jankautz.com/">Jan Kautz</a>
+      <a href="http://jankautz.com/">Jan Kautz</a> <a href="https://twitter.com/jankautz"><img src="{{ "/static/img/Twitter_Social_Icon_Rounded_Square_Color.png" | prepend:site.baseurl }}"></a>
       <h6>NVIDIA</h6>
     </div>
   </div>
