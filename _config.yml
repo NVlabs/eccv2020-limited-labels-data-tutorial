@@ -2,11 +2,7 @@ title: New Frontiers for Learning with Limited Labels or Data
 email: shalinig@nvidia.com
 description: Tutorial in Conjunction with ECCV 2020
   ---
-<<<<<<< HEAD
-baseurl: "" # the subpath of your site, e.g. /blog
-=======
 baseurl: "/eccv2020-limited-labels-data-tutorial" # the subpath of your site, e.g. /blog
->>>>>>> gh-pages
 
 # Build settings
 markdown: kramdown
