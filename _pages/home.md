@@ -147,7 +147,7 @@ Learning with limited data or labels remains an important unsolved problem in co
             <td>Learning with Imperfect Labels and Visual Data</td>
             <td><a href="https://chrisding.github.io/index.htm">Zhiding Yu</a></td>
             <td>Video</td>
-            <td>PDF</td>
+            <td><a target="_blank" href="https://drive.google.com/file/d/1MyNXLhtFo3-ytKMxEGdm3XFsxejWKxbr/view?usp=sharing">PDF</a></td>
         </tr>
         <tr>
             <td><b>Inverting Neural Networks</b></td>
