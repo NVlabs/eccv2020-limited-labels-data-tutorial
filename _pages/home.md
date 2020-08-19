@@ -111,7 +111,7 @@ Learning with limited data or labels remains an important unsolved problem in co
             <td>Introduction</td>
             <td><a href="https://research.nvidia.com/person/shalini-gupta">Shalini De Mello</a></td>
             <td><a target="_blank" href="https://youtu.be/lHsLUYk80z4">Video</a></td>
-            <td><a target="_blank" href="https://nvlabs.github.io/eccv2020-limited-labels-data-tutorial/static/files/eccvt_lld_shalini_demello.pdf">PDF</a></td>
+            <td><a target="_blank" href="https://drive.google.com/file/d/1j-O0az3BEeHuTPWmRurSDdsQxe6e3V74/view?usp=sharing">PDF</a></td>
         </tr>
         <tr>
             <td><b>Self-supervised Learning</b></td>
@@ -123,13 +123,13 @@ Learning with limited data or labels remains an important unsolved problem in co
             <td>Self-Supervised Part and Viewpoint Discovery from Image Collections</td>
             <td><a href="https://varunjampani.github.io/">Varun Jampani</a></td>
             <td><a target="_blank" href="https://youtu.be/5kzU6NkvGX4">Video</a></td>
-            <td><a target="_blank" href="https://nvlabs.github.io/eccv2020-limited-labels-data-tutorial/static/files/eccvt_lld_varun_jampani.pdf">PDF</a></td>
+            <td><a target="_blank" href="https://drive.google.com/file/d/1eSy0IbLB9y5By7Umu16zhI8z1UDZJtoe/view?usp=sharing">PDF</a></td>
         </tr>
         <tr>
             <td>Learning Visual Correspondences across Instances and Video Frames</td>
             <td><a href="https://www.sifeiliu.net/">Sifei Liu</a></td>
             <td><a target="_blank" href="https://youtu.be/_Sug0ICzKlk">Video</a></td>
-            <td><a target="_blank" href="https://nvlabs.github.io/eccv2020-limited-labels-data-tutorial/static/files/eccvt_lld_sifei_liu.pdf">PDF</a></td>
+            <td><a target="_blank" href="https://drive.google.com/file/d/13tuczzIikN5KCrSvHmyhcfs9d1XuJii8/view?usp=sharing">PDF</a></td>
         </tr>
         <tr>
             <td><b>Imperfect Labels</b></td>
@@ -141,7 +141,7 @@ Learning with limited data or labels remains an important unsolved problem in co
             <td>Limitless Labels in a Labelless World: Weak Supervision with Noisy Labels</td>
             <td><a href="http://latentspace.cc/arash_vahdat/">Arash Vahdat</a></td>
             <td><a target="_blank" href="https://youtu.be/UtxQkIoei0o">Video</a></td>
-            <td><a target="_blank" href="https://nvlabs.github.io/eccv2020-limited-labels-data-tutorial/static/files/eccvt_lld_arash_vahdat.pdf">PDF</a></td>
+            <td><a target="_blank" href="https://drive.google.com/file/d/1MIlAhzEpJecSXuzmQjSirAVQcX4qjGp6/view?usp=sharing">PDF</a></td>
         </tr>
         <tr>
             <td>Learning with Imperfect Labels and Visual Data</td>
@@ -159,13 +159,13 @@ Learning with limited data or labels remains an important unsolved problem in co
           <td>Inverting Neural Networks for Data-free Knowledge Transfer</td>
           <td><a href="https://research.nvidia.com/person/pavlo-molchanov">Pavlo Molchanov</a></td>
           <td><a target="_blank" href="https://youtu.be/ddEtea4ntEU">Video</a></td>
-          <td><a target="_blank" href="https://nvlabs.github.io/eccv2020-limited-labels-data-tutorial/static/files/eccvt_lld_pavlo_molchanov.pdf">PDF</a></td>
+          <td><a target="_blank" href="https://drive.google.com/file/d/1oMBMzArh5_qcRof6BLfG09Tt1VxBf2y8/view?usp=sharing">PDF</a></td>
         </tr>
         <tr>
           <td>Learning Efficiently with Biologically Inspired Feedback</td>
           <td><a href="https://yjhuangcd.github.io/">Yujia Huang</a></td>
           <td><a target="_blank" href="https://youtu.be/8N9AF8V52-E">Video</a></td>
-          <td><a target="_blank" href="https://nvlabs.github.io/eccv2020-limited-labels-data-tutorial/static/files/eccvt_lld_yujia_huang.pdf">PDF</a></td>
+          <td><a target="_blank" href="https://drive.google.com/file/d/1tngSUhyBVHyoYjVP0YwIwNZOB0XaWRQa/view?usp=sharing">PDF</a></td>
         </tr>
       </tbody>
     </table>
