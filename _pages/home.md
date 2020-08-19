@@ -187,7 +187,7 @@ Learning with limited data or labels remains an important unsolved problem in co
     </a>
     <div class="people-name">
       <a href="https://research.nvidia.com/person/shalini-gupta">Shalini De Mello</a> <a href="https://twitter.com/shalinidemello"><img src="{{ "/static/img/Twitter_Social_Icon_Rounded_Square_Color.png" | prepend:site.baseurl }}"></a>
-      <h6>Nvidia</h6>
+      <h6>NVIDIA</h6>
     </div>
   </div>
   <div class="col-md-9">
@@ -206,7 +206,7 @@ Learning with limited data or labels remains an important unsolved problem in co
     <div class="people-name">
       <a href="https://www.sifeiliu.net/">Sifei Liu</a>
       <a href="https://twitter.com/SifeiL"><img src="{{ "/static/img/Twitter_Social_Icon_Rounded_Square_Color.png" | prepend:site.baseurl }}"></a>
-      <h6>Nvidia</h6>
+      <h6>NVIDIA</h6>
     </div>
   </div>
   <div class="col-md-9">
@@ -225,7 +225,7 @@ Sifei Liu is a Senior Research Scientist in Learning and Perception Research gro
     <div class="people-name">
       <a href="https://chrisding.github.io/index.htm">Zhiding Yu</a>
       <a href="https://twitter.com/ZhidingYu"><img src="{{ "/static/img/Twitter_Social_Icon_Rounded_Square_Color.png" | prepend:site.baseurl }}"></a>
-      <h6>Nvidia</h6>
+      <h6>NVIDIA</h6>
     </div>
   </div>
   <div class="col-md-9">
@@ -243,7 +243,7 @@ Zhiding Yu is a Senior Research Scientist in the Machine Learning Research group
     </a>
     <div class="people-name">
       <a href="https://research.nvidia.com/person/pavlo-molchanov">Pavlo Molchanov</a> <a href="https://twitter.com/PavloMolchanov"><img src="{{ "/static/img/Twitter_Social_Icon_Rounded_Square_Color.png" | prepend:site.baseurl }}"></a>
-      <h6>Nvidia</h6>
+      <h6>NVIDIA</h6>
     </div>
   </div>
   <div class="col-md-9">
