@@ -297,7 +297,7 @@ Pavlo Molchanov is a Principal Research Scientist at Learning and Perception Res
     </a>
     <div class="people-name">
       <a href="https://yjhuangcd.github.io/">Yujia Huang</a> <a href="https://twitter.com/YujiaHuangC"><img src="{{ "/static/img/Twitter_Social_Icon_Rounded_Square_Color.png" | prepend:site.baseurl }}"></a>
-      <h6>NVIDIA</h6>
+      <h6>Caltech</h6>
     </div>
   </div>
   <div class="col-md-9">
@@ -315,7 +315,7 @@ Pavlo Molchanov is a Principal Research Scientist at Learning and Perception Res
     </a>
     <div class="people-name">
       <a href="http://tensorlab.cms.caltech.edu/users/anima/">Animashree Anandkumar</a> <a href="https://twitter.com/AnimaAnandkumar"><img src="{{ "/static/img/Twitter_Social_Icon_Rounded_Square_Color.png" | prepend:site.baseurl }}"></a>
-      <h6>NVIDIA and California Institute of Technology</h6>
+      <h6>NVIDIA and Caltech</h6>
     </div>
   </div>
   <div class="col-md-9">
