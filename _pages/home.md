@@ -13,7 +13,7 @@ acknowledgements: ""
 <br>
 <div class="row">
   <div class="col-xs-12">
-  <center><h2>ECCV 2020 Virual Tutorial on</h2></center>
+  <center><h2>ECCV 2020 Virtual Tutorial on</h2></center>
     <center><h1>New Frontiers for Learning with Limited Labels or Data</h1></center>
         <center><b>Time slot 1</b>: Saturday 22 August, 5:30 pm - 7:00 pm (San Francisco Time) </center> 
         <center><b>Time slot 2</b>: Sunday 23 August, 6:30 am - 8:00 am (San Francisco Time) </center>
@@ -110,11 +110,11 @@ Learning with limited data or labels remains an important unsolved problem in co
         <tr>
             <td>Introduction</td>
             <td><a href="https://research.nvidia.com/person/shalini-gupta">Shalini De Mello</a></td>
-            <td><a target="_blank" href="https://youtu.be/1XuD-ozHTLY">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/lHsLUYk80z4">Video</a></td>
             <td><a target="_blank" href="https://nvlabs.github.io/eccv2020-limited-labels-data-tutorial/static/files/eccvt_lld_shalini_demello.pdf">PDF</a></td>
         </tr>
         <tr>
-            <td><b>Self-Supervised Learning</b></td>
+            <td><b>Self-supervised Learning</b></td>
             <td> </td>
             <td> </td>
             <td> </td>
