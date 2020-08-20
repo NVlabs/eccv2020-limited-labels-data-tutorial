@@ -2,7 +2,7 @@
 layout: project
 urltitle:  "New Frontiers for Learning with Limited Labels or Data"
 title: "New Frontiers for Learning with Limited Labels or Data"
-categories: eccv2020, tutorial, computer vision, robotics, machine learning, few-shot, unsupervised, semi-supervised, limited labels and data
+categories: eccv2020, tutorial, computer vision, machine learning, self-superised, unsupervised, semi-supervised, limited labels and data
 permalink: /
 favicon: /static/img/eccv-final.png
 bibtex: true
@@ -15,9 +15,9 @@ acknowledgements: ""
   <div class="col-xs-12">
   <center><h2>ECCV 2020 Virtual Tutorial on</h2></center>
     <center><h1>New Frontiers for Learning with Limited Labels or Data</h1></center>
-        <center><b>Time slot 1</b>: Saturday 22 August, 5:30 pm - 7:00 pm (San Francisco Time) </center> 
-        <center><b>Time slot 2</b>: Sunday 23 August, 6:30 am - 8:00 am (San Francisco Time) </center>
-        <center>ECCV 2020 <a target="_blank" href="https://workshopsandtutorials.eccv2020.eu/papers/category/tutorial-sunday-aug-23/new-frontiers-for-learning-with-limited-labels-or-data/">microsite</a>, Video <a target="_blank" href="https://www.youtube.com/playlist?list=PLDEjP3Cd-gys9TC1RuboblGzwfsaJ9FxU">playlist</a></center>
+        <center><b>Time slot 1</b>: Saturday 22 August, 5:30 pm - 7:00 pm (San Francisco Time)  <font color="#76b900"> <b><a target="_blank" href="https://us02web.zoom.us/j/81371377082?pwd=SWFCdW1WSmRsL0toUWoweXhJZ2gvdz09">Zoom Link</a></b></font></center> 
+        <center><b>Time slot 2</b>: Sunday 23 August, 6:30 am - 8:00 am (San Francisco Time) <font color="#76b900"><b><a target="_blank" href="https://us02web.zoom.us/j/82370812135?pwd=ZnBybmZhSWJKazRVQXBhbWN4OTlWQT09">Zoom Link</a></b></font></center>
+        <center>ECCV 2020 <font color="#76b900"> <b><a target="_blank" href="https://workshopsandtutorials.eccv2020.eu/papers/category/tutorial-sunday-aug-23/new-frontiers-for-learning-with-limited-labels-or-data/">Microsite</a></b></font>, Youtube <font color="#76b900"><b><a target="_blank" href="https://www.youtube.com/playlist?list=PLDEjP3Cd-gys9TC1RuboblGzwfsaJ9FxU">Playlist</a></b></font></center>
   </div>
 </div>
 <br>
@@ -146,7 +146,7 @@ Learning with limited data or labels remains an important unsolved problem in co
         <tr>
             <td>Learning with Imperfect Labels and Visual Data</td>
             <td><a href="https://chrisding.github.io/index.htm">Zhiding Yu</a></td>
-            <td>Video</td>
+            <td><a target="_blank" href="https://youtu.be/6bDP7YfiwW4">Video</a></td>
             <td><a target="_blank" href="https://drive.google.com/file/d/1MyNXLhtFo3-ytKMxEGdm3XFsxejWKxbr/view?usp=sharing">PDF</a></td>
         </tr>
         <tr>
