@@ -17,7 +17,7 @@ acknowledgements: ""
     <center><h1>New Frontiers for Learning with Limited Labels or Data</h1></center>
         <center><b>Time slot 1</b>: Saturday 22 August, 5:30 pm - 7:00 pm (San Francisco Time)  <font color="#76b900"> <b><a target="_blank" href="https://us02web.zoom.us/j/81371377082?pwd=SWFCdW1WSmRsL0toUWoweXhJZ2gvdz09">Zoom Link</a></b></font></center> 
         <center><b>Time slot 2</b>: Sunday 23 August, 6:30 am - 8:00 am (San Francisco Time) <font color="#76b900"><b><a target="_blank" href="https://us02web.zoom.us/j/82370812135?pwd=ZnBybmZhSWJKazRVQXBhbWN4OTlWQT09">Zoom Link</a></b></font></center>
-        <center>ECCV 2020 <font color="#76b900"> <b><a target="_blank" href="https://workshopsandtutorials.eccv2020.eu/papers/category/tutorial-sunday-aug-23/new-frontiers-for-learning-with-limited-labels-or-data/">Microsite</a></b></font>, Youtube <font color="#76b900"><b><a target="_blank" href="https://www.youtube.com/playlist?list=PLDEjP3Cd-gys9TC1RuboblGzwfsaJ9FxU">Playlist</a></b></font></center>
+        <center>ECCV 2020 <font color="#76b900"> <b><a target="_blank" href="https://workshopsandtutorials.eccv2020.eu/papers/category/tutorial-sunday-aug-23/new-frontiers-for-learning-with-limited-labels-or-data/">Microsite</a></b></font>, Youtube <font color="#76b900"><b><a target="_blank" href="https://www.youtube.com/playlist?list=PLDEjP3Cd-gys9TC1RuboblGzwfsaJ9FxU">Playlist</a></b></font>, Bilibili <font color="#76b900"><b><a target="_blank" href="https://www.bilibili.com/read/cv7268682?share_source=copy_link&share_medium=iphone&bbid=Z34AB836729C35E84416ACBF44A761007D7D&ts=1598042304">Playlist</a></b></font></center>
   </div>
 </div>
 <br>
