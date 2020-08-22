@@ -103,7 +103,7 @@ Learning with limited data or labels remains an important unsolved problem in co
         <th>Speaker</th>
         <th></th>
         <th></th>
-        <th>Time</th>
+        <th>Live Session</th>
         </tr>
       </thead>
       <tbody>
