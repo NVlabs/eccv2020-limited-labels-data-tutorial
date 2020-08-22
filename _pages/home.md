@@ -15,14 +15,14 @@ acknowledgements: ""
   <div class="col-xs-12">
   <center><h2>ECCV 2020 Virtual Tutorial on</h2></center>
     <center><h1>New Frontiers for Learning with Limited Labels or Data</h1></center>
-        <center><b>Time slot 1</b>: Saturday 22 August, 5:30 pm - 7:00 pm (San Francisco Time)  <font color="#76b900"> <b><a target="_blank" href="https://us02web.zoom.us/j/81371377082?pwd=SWFCdW1WSmRsL0toUWoweXhJZ2gvdz09">Zoom Link</a></b></font></center> 
-        <center><b>Time slot 2</b>: Sunday 23 August, 6:30 am - 8:00 am (San Francisco Time) <font color="#76b900"><b><a target="_blank" href="https://us02web.zoom.us/j/82370812135?pwd=ZnBybmZhSWJKazRVQXBhbWN4OTlWQT09">Zoom Link</a></b></font></center>
+        <center><b>Time slot 1</b>: Saturday 22 August, 5:30 pm - 7:00 pm (PDT, San Francisco Time)  <a target="_blank" href="https://www.thetimezoneconverter.com/?t=5%3A30%20pm&tz=San%20Francisco&">Time Zone Converter</a>, <font color="#76b900"> <b><a target="_blank" href="https://us02web.zoom.us/j/81371377082?pwd=SWFCdW1WSmRsL0toUWoweXhJZ2gvdz09">Zoom Link</a></b></font></center> 
+        <center><b>Time slot 2</b>: Sunday 23 August, 6:30 am - 8:00 am (PDT, San Francisco Time) <a target="_blank" href="https://www.thetimezoneconverter.com/?t=6%3A30%20am&tz=San%20Francisco&">Time Zone Converter</a>, <font color="#76b900"><b><a target="_blank" href="https://us02web.zoom.us/j/82370812135?pwd=ZnBybmZhSWJKazRVQXBhbWN4OTlWQT09">Zoom Link</a></b></font></center>
         <center>ECCV 2020 <font color="#76b900"> <b><a target="_blank" href="https://workshopsandtutorials.eccv2020.eu/papers/category/tutorial-sunday-aug-23/new-frontiers-for-learning-with-limited-labels-or-data/">Microsite</a></b></font>, Youtube <font color="#76b900"><b><a target="_blank" href="https://www.youtube.com/playlist?list=PLDEjP3Cd-gys9TC1RuboblGzwfsaJ9FxU">Playlist</a></b></font>, Bilibili <font color="#76b900"><b><a target="_blank" href="https://www.bilibili.com/read/cv7268682?share_source=copy_link&share_medium=iphone&bbid=Z34AB836729C35E84416ACBF44A761007D7D&ts=1598042304">Playlist</a></b></font></center>
   </div>
 </div>
 <br>
 
-Learning with limited data or labels remains an important unsolved problem in computer vision. It prevents us from democratizing AI technology today. While humans accomplish this task seamlessly, contemporary AI algorithms struggle with it. So, how far along have we come towards solving this problem in vision? What are some new frontiers to move forward? In this turorial we will explore several emerging ideas and exciting breakthroughs that are pushing the boundaries of what is possible for this task. We will first describe exciting new accomplishments in self-supervised learning from image collections and videos, which are helping to learn a myraid of vision tasks. Next we will show emerging ideas around learning with imperfect labels and of unification across different levels of supervision. Lastly, we will present two new ideas around inverting networks to provide data or feedback, which can help to learn in limited data  scenarios.
+Learning with limited data or labels remains an important unsolved problem in computer vision. It prevents us from democratizing AI technology today. While humans accomplish this task seamlessly, contemporary AI algorithms struggle with it. So, how far along have we come towards solving this problem in vision? What are some new frontiers to move forward? In this tutorial we will explore several emerging ideas and exciting breakthroughs that are pushing the boundaries of what is possible for this task. We will first describe exciting new accomplishments in self-supervised learning from image collections and videos, which are helping to learn a myriad of vision tasks. Next we will show emerging ideas around learning with imperfect labels and of unification across different levels of supervision. Lastly, we will present two new ideas around inverting networks to provide data or feedback, which can help to learn in limited data  scenarios.
 <br id="speakers">
 <br>
 
@@ -103,6 +103,7 @@ Learning with limited data or labels remains an important unsolved problem in co
         <th>Speaker</th>
         <th></th>
         <th></th>
+        <th>Time</th>
         </tr>
       </thead>
       <tbody>
@@ -112,9 +113,11 @@ Learning with limited data or labels remains an important unsolved problem in co
             <td><a href="https://research.nvidia.com/person/shalini-gupta">Shalini De Mello</a></td>
             <td><a target="_blank" href="https://youtu.be/lHsLUYk80z4">Video</a></td>
             <td><a target="_blank" href="https://drive.google.com/file/d/1j-O0az3BEeHuTPWmRurSDdsQxe6e3V74/view?usp=sharing">PDF</a></td>
+            <td>22 Aug, 5:30 pm (PDT), <a target="_blank" href="https://www.thetimezoneconverter.com/?t=5%3A30%20pm&tz=San%20Francisco&">Time Converter</a>, <font color="#76b900"> <b><a target="_blank" href="https://us02web.zoom.us/j/81371377082?pwd=SWFCdW1WSmRsL0toUWoweXhJZ2gvdz09">Zoom</a></b></font></td>
         </tr>
         <tr>
             <td><b>Self-supervised Learning</b></td>
+            <td> </td>
             <td> </td>
             <td> </td>
             <td> </td>
@@ -124,15 +127,18 @@ Learning with limited data or labels remains an important unsolved problem in co
             <td><a href="https://varunjampani.github.io/">Varun Jampani</a></td>
             <td><a target="_blank" href="https://youtu.be/5kzU6NkvGX4">Video</a></td>
             <td><a target="_blank" href="https://drive.google.com/file/d/1eSy0IbLB9y5By7Umu16zhI8z1UDZJtoe/view?usp=sharing">PDF</a></td>
+            <td>22 Aug, 5:30 - 6:00 pm (PDT), <a target="_blank" href="https://www.thetimezoneconverter.com/?t=5%3A30%20pm&tz=San%20Francisco&">Time Converter</a>, <font color="#76b900"> <b><a target="_blank" href="https://us02web.zoom.us/j/81371377082?pwd=SWFCdW1WSmRsL0toUWoweXhJZ2gvdz09">Zoom</a></b></font></td>
         </tr>
         <tr>
             <td>Learning Visual Correspondences across Instances and Video Frames</td>
             <td><a href="https://www.sifeiliu.net/">Sifei Liu</a></td>
             <td><a target="_blank" href="https://youtu.be/_Sug0ICzKlk">Video</a></td>
             <td><a target="_blank" href="https://drive.google.com/file/d/13tuczzIikN5KCrSvHmyhcfs9d1XuJii8/view?usp=sharing">PDF</a></td>
+            <td>22 Aug, 6:00 - 6:30 pm (PDT), <a target="_blank" href="https://www.thetimezoneconverter.com/?t=6%3A00%20pm&tz=San%20Francisco&">Time Converter</a>, <font color="#76b900"> <b><a target="_blank" href="https://us02web.zoom.us/j/81371377082?pwd=SWFCdW1WSmRsL0toUWoweXhJZ2gvdz09">Zoom</a></b></font></td>
         </tr>
         <tr>
             <td><b>Imperfect Labels</b></td>
+            <td> </td>
             <td> </td>
             <td> </td>
             <td> </td>
@@ -142,15 +148,18 @@ Learning with limited data or labels remains an important unsolved problem in co
             <td><a href="http://latentspace.cc/arash_vahdat/">Arash Vahdat</a></td>
             <td><a target="_blank" href="https://youtu.be/UtxQkIoei0o">Video</a></td>
             <td><a target="_blank" href="https://drive.google.com/file/d/1MIlAhzEpJecSXuzmQjSirAVQcX4qjGp6/view?usp=sharing">PDF</a></td>
+            <td>22 Aug, 6:30 - 7:00 pm (PDT), <a target="_blank" href="https://www.thetimezoneconverter.com/?t=6%3A30%20pm&tz=San%20Francisco&">Time Converter</a>, <font color="#76b900"> <b><a target="_blank" href="https://us02web.zoom.us/j/81371377082?pwd=SWFCdW1WSmRsL0toUWoweXhJZ2gvdz09">Zoom</a></b></font></td>
         </tr>
         <tr>
             <td>Learning with Imperfect Labels and Visual Data</td>
             <td><a href="https://chrisding.github.io/index.htm">Zhiding Yu</a></td>
             <td><a target="_blank" href="https://youtu.be/6bDP7YfiwW4">Video</a></td>
             <td><a target="_blank" href="https://drive.google.com/file/d/1MyNXLhtFo3-ytKMxEGdm3XFsxejWKxbr/view?usp=sharing">PDF</a></td>
+            <td>23 Aug, 6:30 - 7:00 am (PDT), <a target="_blank" href="https://www.thetimezoneconverter.com/?t=6%3A30%20am&tz=San%20Francisco&">Time Converter</a>, <font color="#76b900"> <b><a target="_blank" href="https://us02web.zoom.us/j/82370812135?pwd=ZnBybmZhSWJKazRVQXBhbWN4OTlWQT09">Zoom</a></b></font></td>
         </tr>
         <tr>
             <td><b>Inverting Neural Networks</b></td>
+            <td> </td>
             <td> </td>
             <td> </td>
             <td> </td>
@@ -160,12 +169,14 @@ Learning with limited data or labels remains an important unsolved problem in co
           <td><a href="https://research.nvidia.com/person/pavlo-molchanov">Pavlo Molchanov</a></td>
           <td><a target="_blank" href="https://youtu.be/ddEtea4ntEU">Video</a></td>
           <td><a target="_blank" href="https://drive.google.com/file/d/1oMBMzArh5_qcRof6BLfG09Tt1VxBf2y8/view?usp=sharing">PDF</a></td>
+          <td>23 Aug, 7:00 - 7:30 am (PDT), <a target="_blank" href="https://www.thetimezoneconverter.com/?t=7%3A00%20am&tz=San%20Francisco&">Time Converter</a>, <font color="#76b900"> <b><a target="_blank" href="https://us02web.zoom.us/j/82370812135?pwd=ZnBybmZhSWJKazRVQXBhbWN4OTlWQT09">Zoom</a></b></font></td>
         </tr>
         <tr>
           <td>Learning Efficiently with Biologically Inspired Feedback</td>
           <td><a href="https://yjhuangcd.github.io/">Yujia Huang</a></td>
           <td><a target="_blank" href="https://youtu.be/8N9AF8V52-E">Video</a></td>
           <td><a target="_blank" href="https://drive.google.com/file/d/1tngSUhyBVHyoYjVP0YwIwNZOB0XaWRQa/view?usp=sharing">PDF</a></td>
+          <td>23 Aug, 7:30 - 8:00 am (PDT), <a target="_blank" href="https://www.thetimezoneconverter.com/?t=7%3A30%20am&tz=San%20Francisco&">Time Converter</a>, <font color="#76b900"> <b><a target="_blank" href="https://us02web.zoom.us/j/82370812135?pwd=ZnBybmZhSWJKazRVQXBhbWN4OTlWQT09">Zoom</a></b></font></td>
         </tr>
       </tbody>
     </table>
